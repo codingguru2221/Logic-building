@@ -1,8 +1,6 @@
----
 
 # Enhancing the **Logic Building in Programming** Repository
 
----
 
 ## Additional Sections
 
@@ -94,7 +92,6 @@ To help visualize logical flow, block diagrams can be incorporated. Below are so
 - Explore dynamic programming and graph algorithms.
 - Build real-world projects and contribute to open-source.
 
----
 
 ## Updated Table of Contents
 
@@ -118,7 +115,6 @@ To help visualize logical flow, block diagrams can be incorporated. Below are so
 18. [Contributing](#contributing)
 19. [License](#license)
 
----
 
 ## Final Notes
 
